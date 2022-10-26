@@ -1,0 +1,461 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+/* Body Header */
+
+#body-header {
+    height: 65vh;
+    opacity: 0.8;
+    background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 1.2rem;
+}
+
+/* Horizontal Lists */
+
+.horizontal-list {
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+
+
+.horizontal-list li a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-menu li a {
+    transition: color 0.5s, border-bottom 4s;
+}
+
+.nav-menu li a:hover {
+    color: lightgrey;
+    border-bottom: 1px solid black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Name and Social Icons*/
+
+#name-social-container {
+    margin-top: 20vh;
+}
+
+#my-name {
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+
+.social-icons li a i {
+    /*color: red;*/
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 50%;
+}
+
+
+.social-icons li a i:hover {
+    box-shadow: 0px 0px 6px 4px rgba(230, 196, 196, 0.3);
+}
+
+/*About Section*/
+
+#about {
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+#my-image {
+    height: 12rem;
+    width: 12rem;
+    margin: auto;
+    margin-top: -17vh;
+}
+
+#my-image img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 1px 1px 10px 2px lightgrey;
+}
+
+
+#about-para {
+    padding: 10px;
+    width: 70%;
+    text-align: justify;
+    color: grey;
+    line-height: 28px;
+    font-size: 1.1rem;
+    margin: auto;
+}
+
+.text-highlight {
+    color: #2857a4;
+    font-weight: 600;
+}
+
+
+/* Skills-Section */
+#skills{
+    width: auto;
+    height: 65vh;
+    background-color: #EFEFEF;
+}
+
+#section-icon-and-heading{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    color: #2857A4;
+}
+
+#section-icon-and-heading h1{
+    display: inline-block;
+    margin-left: 1vw;
+    font-weight: 500;
+}
+
+#section-icon-and-heading span i{
+/*     height: 50px; */
+/*     border: 2px solid red; */
+    font-size: 2.3rem;
+}
+
+/* --------------------------------------------- */
+
+#display-progress span{
+    color: #E7E2E0;
+    font-size: 1rem;
+    margin-left: 20%;
+}
+
+#display-progress{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 11vw;
+    padding-right: 11vw;
+}
+
+#full-progress{
+    width: 12vw;
+    height: 6vh;
+/*     border: 2px solid red; */
+    background-color: #D3D3D3;
+    margin: 3%;
+}
+
+#achieved-progress-forty-percent{
+    width: 40%;
+    height: inherit;
+/*     border: 2px solid blue; */
+    background-color: #2857A4;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    box-shadow: 3.5px 0px 7px 0px grey;
+}
+
+#achieved-progress-eighty-percent{
+    width: 80%;
+    height: inherit;
+/*     border: 2px solid blue; */
+    background-color: #EC4D1C;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    box-shadow: 3.5px 0px 7px 0px grey;
+}
+
+#achieved-progress-seventy-five-percent{
+    width: 75%;
+    height: inherit;
+/*     border: 2px solid blue; */
+    background-color: #93738C;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    box-shadow: 3.5px 0px 7px 0px grey;
+}
+
+#achieved-progress-fifty-four-percent{
+    width: 54%;
+    height: inherit;
+/*     border: 2px solid blue; */
+    background-color: #0B8176;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    box-shadow: 3.5px 0px 7px 0px grey;
+}
+
+#achieved-progress-fifty-percent{
+    width: 50%;
+    height: inherit;
+/*     border: 2px solid blue; */
+    background-color: #2857A4;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    box-shadow: 3.5px 0px 7px 0px grey;
+}
+
+
+#achieved-progress-seventy-percent{
+    width: 70%;
+    height: inherit;
+/*     border: 2px solid blue; */
+    background-color: #93738C;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    box-shadow: 3.5px 0px 7px 0px grey;
+}
+
+#display-progress>div{
+    border-radius: 2rem;
+}
+
+
+
+/* Portfolio-Section */
+#portfolio{
+    width:auto;
+    height: 120vh;
+    padding-left: 5vw;
+}
+
+#project-image-and-text1{
+    position: relative;
+    width: 21vw;
+    height: 36vh;
+    margin: 10px;
+}
+
+#project-image-and-text1 img{
+    height: 100%;
+    width: 100%;
+}
+
+#p-tag-div1{
+    height: 115%;
+    width: 100%;
+    /*border: 2px solid yellow;*/
+    position: absolute;
+    top:  0;
+    background-color: rgba(211,211,211,0.6);
+    color:  white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    opacity: 0;
+}
+
+#p-tag-div1:hover{
+    opacity: 1;
+    box-shadow: 0 0 10px 2px lightblue ;
+}
+
+.project-image-and-text img .p-tag div{
+    border: 2px solid red;
+/* 	height: inherit; */
+}
+
+/* .project-image-and-text p{
+   position: absolute;
+   top: 0;
+    background: rgba(108, 122, 137, 0.5);
+    width: 100%;
+    height: 100%; */
+/*     width: 21vw;
+    height: 45vh; */
+/*     opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 2px lightblue;
+    color: white;
+    padding-left: 3vw;
+    margin-top: -2vh; */
+    
+/*    left: 15%; */
+/* } */
+
+#portfolio p:hover{
+    opacity: 1;
+/*    left: 0; */
+}
+
+/* #project-decription p{
+    height: 35vh;
+    width: 21vw;
+    border: 2px solid red;
+    margin-top: -200px;
+    text-align: center;
+    color: white;
+    display: none;
+} */
+
+/* #portfolio img:hover{
+    background-color: lightgrey;
+    box-shadow: 0 0 10px 2px lightblue;
+} */
+
+/* #project-decription p:hover{
+    display: block;
+} */
+
+#projects-display{
+    display:flex;
+    flex-wrap: wrap;
+    padding-left: 13vw;
+    padding-right: 6vw;
+/*     justify-content : space-between; */
+}
+
+/* ----------------------CONTACT SECTION--------------------------- */
+/* ----------------------CONTACT SECTION--------------------------- */
+#contact{
+    height: 90vh;
+    width: auto;
+    /*border: 2px solid red;*/
+}
+
+#contact>div{
+    padding-left: 16vw;
+    padding-right: 11vw;
+}
+
+#contact>div{
+    height: inherit;
+    background: linear-gradient(45deg, #2857a4, #403066 70%);
+}
+
+#contact #section-icon-and-heading span{
+    color: white;
+}
+
+#form-and-contact-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+#form-input-details-and-submit-button{
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;*/
+    align-items:  center;
+    /*border: 2px solid red;*/
+}
+
+#form-input-details{
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    background: transparent;
+    margin-bottom: 5%;
+    border: none;
+    border-bottom: 2px solid white;
+    padding-left: 1vw;
+    padding-top: 5vh;
+    padding-bottom: 1vh;
+    width: 30vw;
+}
+
+form textarea{
+    background: transparent;
+    margin-bottom: 5%;
+    border: none;
+    border-bottom: 2px solid white;
+    padding-left: 1vw;
+    padding-top: 3vh;
+    padding-bottom: 2vh;
+    width: 30vw;
+}
+
+form button{
+    background: transparent;
+    /*margin: 5%;*/
+    border: none;
+    border: 3px solid white;
+    /*padding-bottom: 5vh;*/
+    width: 15vw;
+    color: white;
+    /*margin-left: 7.5vw;*/
+    margin-top: 5vh;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-weight: 750;
+}
+
+/*#form-input-details #form-submit-button{
+    height: auto;
+    width: auto;
+}*/
+
+
+/*--------------------------*/
+
+#contact-details{
+    font-family: "Times New Roman";
+    /*border: 2px solid red;*/
+    color:  white;
+    width: 44%;
+    padding-top:  4vh;
+}
+
+#contact-details p{
+    font-size:  1rem;
+    color:  lightgrey;
+}
+
+#contact-details h6{
+    /*box-sizing: border-box;*/
+    margin: 0;
+    font-family: sans-serif;
+    margin-bottom: 1vh;
+}
+
+.add-num-mail span{
+    /*border: 2px solid yellow;*/
+    display: inline-block;
+    font-size:  1rem;
+    color:  lightgrey;
+}
+
+
+
+.add-num-mail span i{
+    color:  white;
+}
+
+#address-number-email{
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-social #name-social-container{
+    margin-top: 7vh;
+}
+
+#contact-social #name-social-container i{
+    font-size:  1.3rem;
+}
