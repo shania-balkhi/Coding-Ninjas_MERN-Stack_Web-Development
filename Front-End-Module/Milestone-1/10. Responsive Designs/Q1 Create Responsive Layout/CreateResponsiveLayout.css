@@ -1,0 +1,32 @@
+/* source code 1 */
+h1{
+    text-decoration: underline;
+    text-align: center;
+    margin: 2%;
+}
+
+div{
+    width: 30%;
+    height: 300px;
+    margin: 1%;
+    display: inline-block;
+}
+
+#div-1{
+    background-color: #ff8989;
+}
+
+#div-2{
+    background-color: #88f7ce;
+}
+
+#div-3{
+    background-color: #e29df2;
+}
+
+/* ------------------------------ */
+@media screen and (max-width: 600px){
+    div{
+        width: 100%;
+    }
+}
