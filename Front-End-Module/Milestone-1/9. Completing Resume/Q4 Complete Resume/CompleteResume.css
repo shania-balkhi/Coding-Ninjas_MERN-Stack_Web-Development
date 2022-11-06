@@ -121,8 +121,9 @@ body {
 /* Skills-Section */
 #skills{
     width: auto;
-    height: 65vh;
+    height: 55vh;
     background-color: #EFEFEF;
+    /*border: 2px solid black;*/
 }
 
 #section-icon-and-heading{
@@ -155,14 +156,16 @@ body {
 #display-progress{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    padding-left: 11vw;
-    padding-right: 11vw;
+    justify-content: center;
+    /*padding-left: 11vw;
+    padding-right: 11vw;*/
+    /*border: 2px solid red;*/
 }
 
 #full-progress{
-    width: 12vw;
-    height: 6vh;
+    /*border: 2px solid black;*/
+    width: 180px;
+    height: 40px;
 /*     border: 2px solid red; */
     background-color: #D3D3D3;
     margin: 3%;
@@ -237,16 +240,24 @@ body {
 
 /* Portfolio-Section */
 #portfolio{
+    /*border: 2px solid black;*/
     width:auto;
-    height: 120vh;
-    padding-left: 5vw;
+    /*height: 75%;*/
+    padding-bottom: 5vw;
+}
+
+#projects-display{
+    /*border: 2px solid black;*/
+    display: flex;
+    justify-content: center;
 }
 
 #project-image-and-text1{
     position: relative;
     width: 21vw;
-    height: 36vh;
+    height: 40%;
     margin: 10px;
+    /*border: 2px solid red;*/
 }
 
 #project-image-and-text1 img{
@@ -255,8 +266,11 @@ body {
 }
 
 #p-tag-div1{
-    height: 115%;
+    /*border: 2px solid black;*/
+    /*height: 115%;*/
+    height: 100%;
     width: 100%;
+    font-size: 1.2rem;
     /*border: 2px solid yellow;*/
     position: absolute;
     top:  0;
@@ -339,8 +353,9 @@ body {
 }
 
 #contact>div{
-    padding-left: 16vw;
-    padding-right: 11vw;
+    /*border: 2px solid red;*/
+/*    padding-left: 16vw;
+    padding-right: 11vw;*/
 }
 
 #contact>div{
@@ -354,13 +369,14 @@ body {
 
 #form-and-contact-details{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    /*border: 2px solid yellow;*/
 }
 
 #form-input-details-and-submit-button{
     display: flex;
     flex-direction: column;
-    /*justify-content: center;*/
+    justify-content: center;
     align-items:  center;
     /*border: 2px solid red;*/
 }
@@ -368,6 +384,8 @@ body {
 #form-input-details{
     display: flex;
     flex-direction: column;
+    padding-left: 10vw;
+    /*border: 2px solid red;*/
 }
 
 form input{
@@ -405,6 +423,7 @@ form button{
     padding-top: 3%;
     padding-bottom: 3%;
     font-weight: 750;
+    margin-left: 10vw;
 }
 
 /*#form-input-details #form-submit-button{
@@ -421,6 +440,7 @@ form button{
     color:  white;
     width: 44%;
     padding-top:  4vh;
+    padding-left: 8vw;
 }
 
 #contact-details p{
@@ -433,6 +453,7 @@ form button{
     margin: 0;
     font-family: sans-serif;
     margin-bottom: 1vh;
+    text-align: revert;
 }
 
 .add-num-mail span{
@@ -454,7 +475,7 @@ form button{
 }
 
 #contact-social #name-social-container{
-    margin-top: 7vh;
+    margin-top: 10vh;
 }
 
 #contact-social #name-social-container i{
@@ -464,11 +485,21 @@ form button{
 
 /* experience */
 
+#experience{
+    padding-bottom: 4vh;
+}
+
+#timeline-full-box{
+    /*border: 2px solid blue;*/
+    display: flex;
+    justify-content: center;
+}
+
  .timeline{
     position: relative;
     width: 75%;
     /*border: 2px solid black;*/
-    margin-left: 13vw;
+    /*margin-left: 13vw;*/
  }
 
 
@@ -574,4 +605,5 @@ form button{
 
 #education{
     background-color: #EFEFEF;
+    padding-bottom: 4vh;
 }
