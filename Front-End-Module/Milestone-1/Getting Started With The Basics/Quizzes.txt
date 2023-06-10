@@ -1,0 +1,19 @@
+MCQs
+
+Q1. Web Browser
+
+What is a web browser?
+
+Options
+This problem has only one correct answer
+It is a client-side application.
+It is a server-side application.
+Both
+None of the above
+
+Ans. It is a client-side application.
+
+Solution Description
+Explanation: A web browser is a client-side application. A browser can also be considered as a client.
+
+*************************************************************************************************************************
