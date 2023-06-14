@@ -17,3 +17,22 @@ Solution Description
 Explanation: A web browser is a client-side application. A browser can also be considered as a client.
 
 *************************************************************************************************************************
+
+Q2. Static vs Dynamic Website
+
+If the content of the website can be changed in real-time based on the user request then this could be an example of -
+
+Options
+This problem has only one correct answer
+Static Website
+Dynamic Website
+Both
+None of these
+
+Ans. Dynamic Website
+
+Solution Description
+Explanation: In a Dynamic website, content can be changed at run time real-time based on the user request.
+For example, when a user opens Facebook, the content of the Facebook website is customised/personalised based on the user profile.
+
+*************************************************************************************************************************
