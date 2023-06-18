@@ -36,3 +36,22 @@ Explanation: In a Dynamic website, content can be changed at run time real-time 
 For example, when a user opens Facebook, the content of the Facebook website is customised/personalised based on the user profile.
 
 *************************************************************************************************************************
+
+Q3. Static Content
+
+Which website will return the same hard-coded content from the server whenever a particular resource is requested?
+Note: Hard-coded contents are static content that can not be changed without replacing the website’s pages with updated or new files.
+
+Options
+This problem has only one correct answer
+Dynamic Website
+Both
+Static Website
+None of the above
+
+Ans. Static Website
+
+Solution Description
+Explanation: Static and Dynamic websites both can return hard-coded content.
+
+*************************************************************************************************************************
