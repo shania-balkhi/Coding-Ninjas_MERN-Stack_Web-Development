@@ -55,3 +55,22 @@ Solution Description
 Explanation: Static and Dynamic websites both can return hard-coded content.
 
 *************************************************************************************************************************
+
+Q4. Frontend vs Backend
+
+From which part of the website, Users interact directly?
+
+Options
+This problem has only one correct answer
+
+Backend
+Frontend
+Both
+All of the above
+
+Ans. Frontend
+
+Solution Description
+Explanation: Users can only interact with Frontend. The users or clients cannot see and interact with the back-end of a website.
+
+*************************************************************************************************************************
