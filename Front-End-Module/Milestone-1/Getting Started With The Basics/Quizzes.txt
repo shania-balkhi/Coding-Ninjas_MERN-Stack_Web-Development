@@ -74,3 +74,22 @@ Solution Description
 Explanation: Users can only interact with Frontend. The users or clients cannot see and interact with the back-end of a website.
 
 *************************************************************************************************************************
+
+Q5. Server Side Development
+
+Server Side development is also known as :
+
+Options
+This problem has only one correct answer
+
+Frontend Development
+Backend Development
+Both
+None of the above
+
+Ans. Backend Development
+
+Solution Description
+Explanation: Backend development refers to Server side development. Because it focuses on databases, scripting, website architecture etc.
+
+*************************************************************************************************************************
