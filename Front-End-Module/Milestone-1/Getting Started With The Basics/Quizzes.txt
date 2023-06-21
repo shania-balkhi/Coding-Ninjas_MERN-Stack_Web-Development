@@ -93,3 +93,23 @@ Solution Description
 Explanation: Backend development refers to Server side development. Because it focuses on databases, scripting, website architecture etc.
 
 *************************************************************************************************************************
+
+Q6. Domain Name System
+
+DNS(Domain Name System) maps the IP address to:
+
+Options
+This problem has only one correct answer
+
+A hexadecimal address
+A binary address
+Domain names
+An Alphanumeric address
+
+Ans. Domain names
+
+Solution Description
+Explanation: Domain Name System maps the IP address to Domain names.
+
+*************************************************************************************************************************
+
