@@ -113,3 +113,20 @@ Explanation: Domain Name System maps the IP address to Domain names.
 
 *************************************************************************************************************************
 
+Q7. ISP
+
+ISP stands for :
+
+Options
+This problem has only one correct answer
+
+Intranet Service Provider
+Internal Service Provider
+Internet Service Provider
+Instant Service Provider
+
+Ans. Internet Service Provider
+
+*************************************************************************************************************************
+
+
