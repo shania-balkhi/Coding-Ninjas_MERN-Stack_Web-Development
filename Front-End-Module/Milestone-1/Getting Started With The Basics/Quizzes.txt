@@ -129,4 +129,25 @@ Ans. Internet Service Provider
 
 *************************************************************************************************************************
 
+Q8. Server
+
+Which of the following statements is/are true?
+The server needs an application called a browser to process the request received from the client.
+The objective of the web server is to store, process and deliver web pages to the users.
+In the world wide web, Client-server communication is done using HTTP/HTTPS.
+
+Options
+This problem has only one correct answer
+
+Only Statement 1 and Statement 3.
+Only Statement 1 and Statement 2.
+Only Statement 2 and Statement 3.
+All of the above.
+
+Ans. Only Statement 2 and Statement 3.
+
+Solution Description
+Explanation: The basic objective of the web server is to store, process, and deliver web pages to the users and Client-server communication is done using HTTP/HTTPS (Hypertext Transfer Protocol).
+
+*************************************************************************************************************************
 
