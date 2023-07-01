@@ -151,3 +151,25 @@ Explanation: The basic objective of the web server is to store, process, and del
 
 *************************************************************************************************************************
 
+Q9. Static vs Dynamic Website
+
+A website has links to other websites and contains a lot of media and text content -
+1. It's the simplest form of the dynamic website as a user can click on the link, and the webpage will be changed based on user input.
+2. It's a static website as clicking on the link will navigate us to other websites, but the content of each web page will remain the same for all users.
+3. It's a dynamic website as it contains media content.
+
+Options
+This problem has only one correct answer
+
+Only statement 1 is true.
+Only Statement 2 is true.
+Only statement 3 is true.
+Statement 1 and 3 are true.
+
+Ans. Only Statement 2 is true.
+
+Solution Description
+Explanation: Web pages with hyperlinks or media contents are not considered dynamic unless the web page's content can be changed at real-time.
+
+*************************************************************************************************************************
+
