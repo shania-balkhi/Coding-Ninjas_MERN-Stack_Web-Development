@@ -1,0 +1,20 @@
+MCQs
+
+Q1. HTML Version
+
+How would the browser know that you are using the HTML5 version?
+
+Options
+This problem has only one correct answer
+
+All browsers know that implicitly.
+It is specified using <!DOCTYPE html>.
+You need to save the file with the .html5 extension.
+You need to save the file with the .htm5 extension.
+
+Ans. It is specified using <!DOCTYPE html>.
+
+Solution Description
+Explanation: You need to tell the browser which HTML version you are using with the help of .
+
+***************************************************************************************************************************************
