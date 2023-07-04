@@ -18,3 +18,19 @@ Solution Description
 Explanation: You need to tell the browser which HTML version you are using with the help of .
 
 ***************************************************************************************************************************************
+
+Q2. Starting Tag of Page
+
+Which tag tells the browser where the HTML document starts and stops?
+
+Options
+This problem has only one correct answer
+
+<html>
+<body>
+<head>
+<title>
+
+Ans. <html>
+
+***************************************************************************************************************************************
