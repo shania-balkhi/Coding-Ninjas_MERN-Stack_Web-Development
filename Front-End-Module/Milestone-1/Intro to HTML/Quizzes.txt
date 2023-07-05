@@ -34,3 +34,22 @@ This problem has only one correct answer
 Ans. <html>
 
 ***************************************************************************************************************************************
+
+Q3. Valid Tag
+
+Which of the following can be a valid tag?
+
+Options
+This problem has only one correct answer
+
+<213tag>
+<_tag>
+Both a) and b)
+None of these
+
+Ans. <_tag>
+
+Solution Description
+Valid HTML tags are surrounded by the angle brackets and the tag name can only either start from an alphabet or an underscore(_)
+
+***************************************************************************************************************************************
