@@ -53,3 +53,19 @@ Solution Description
 Valid HTML tags are surrounded by the angle brackets and the tag name can only either start from an alphabet or an underscore(_)
 
 ***************************************************************************************************************************************
+
+Q4. HTML Standard
+
+The latest HTML standard is -
+
+Options
+This problem has only one correct answer
+
+XML
+SGML
+HTML 4.0
+HTML 5.0
+
+Ans. HTML 5.0
+
+***************************************************************************************************************************************
