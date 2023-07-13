@@ -69,3 +69,20 @@ HTML 5.0
 Ans. HTML 5.0
 
 ***************************************************************************************************************************************
+
+Q5. HTML Extension
+
+What can be the possible extension for the HTML5 file?
+
+Options
+This problem has only one correct answer
+
+.htm and .html
+.hyptertextmarkuplanguage5
+.txt
+.jpg
+
+Ans. .htm and .html
+
+***************************************************************************************************************************************
+
