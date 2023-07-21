@@ -1,0 +1,20 @@
+MCQs
+
+Q1. What is React?
+
+Which of the following statements is incorrect about React?
+
+Options
+This problem has only one correct answer
+
+React is an open-source library
+React is a JavaScript library.
+React is used for building User Interfaces.
+React is a JavaScript framework.
+
+Ans. React is a JavaScript framework.
+
+Solution Description
+React is a free, open-source, front-end JavaScript library for building user interfaces.
+
+********************************************************************************************************************************
