@@ -18,3 +18,23 @@ Solution Description
 React is a free, open-source, front-end JavaScript library for building user interfaces.
 
 ********************************************************************************************************************************
+
+Q2. Single Page Applications
+
+Which of the following is/are correct about SPA(Single page application)?
+
+Options
+This problem may have one or more correct answers
+
+Single-page applications have a more complex structure.
+Single-page applications don't require a full-page reload.
+Single-page applications are unsuitable for search engine optimization (SEO).
+Single-page applications are slower than multi-page applications.
+
+Ans. Single-page applications don't require a full-page reload.
+     Single-page applications are unsuitable for search engine optimization (SEO).
+
+Solution Description
+Single-page applications dynamically updates the contents of a page based on user interaction without having to reload the page. Since this dynamic content is difficult to crawl, SPA’s are less suitable for SEO.
+
+********************************************************************************************************************************
