@@ -38,3 +38,23 @@ Solution Description
 Single-page applications dynamically updates the contents of a page based on user interaction without having to reload the page. Since this dynamic content is difficult to crawl, SPA’s are less suitable for SEO.
 
 ********************************************************************************************************************************
+
+Q3. Declarative React
+
+Identify the correct statement(s) describing React as a declarative language.
+
+Options
+This problem has only one correct answer
+
+React describes the desired outcome, not the specific steps to achieve it.
+React allows for more efficient updates to the DOM.
+React eliminates the need for manual DOM manipulation.
+All of the above
+
+Ans. All of the above
+
+Solution Description
+React is declarative because it describes the desired outcome, not the specific steps to achieve it. This allows for more efficient updates to the DOM, eliminates the need for manual DOM manipulation, and makes it easier to understand the code. 
+
+********************************************************************************************************************************
+
