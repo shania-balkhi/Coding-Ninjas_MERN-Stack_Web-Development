@@ -58,3 +58,21 @@ React is declarative because it describes the desired outcome, not the specific 
 
 ********************************************************************************************************************************
 
+Q4. Updating HTML Node
+
+If we make changes in an HTML node using React, where will those changes get reflected first?
+
+Options
+This problem has only one correct answer
+
+In the Virtual DOM.
+In the Original DOM.
+In the Pre-Updated Virtual DOM.
+It does not get reflected anywhere.
+
+Ans. In the Virtual DOM.
+
+Solution Description
+When we try to update the DOM in React, the entire Virtual DOM is updated and compared to what it looked like before the update in a process called diffing. These changes are then updated on the Real DOM.
+
+********************************************************************************************************************************
