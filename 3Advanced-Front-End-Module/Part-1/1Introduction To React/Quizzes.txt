@@ -76,3 +76,28 @@ Solution Description
 When we try to update the DOM in React, the entire Virtual DOM is updated and compared to what it looked like before the update in a process called diffing. These changes are then updated on the Real DOM.
 
 ********************************************************************************************************************************
+
+Q5. JSX Equivalent
+
+What is the JSX equivalent of the following Javascript code?
+React.createElement("div",
+{
+    id: "parent",
+    class: "parent-class"
+},
+React.createElement("p", null, "Hello world"));
+
+Options
+This problem has only one correct answer
+
+<p id=”parent”><div class=”parent-class”>Hello world</div></p>
+<><p>Hello world</p></>
+<div id=”parent” class=”parent-class”><p>Hello world</p></div>
+<div><p id=”parent” class=”parent-class”>Hello world</p></div>
+
+Ans. <div id=”parent” class=”parent-class”><p>Hello world</p></div>
+
+Solution Description
+Write any JSX code here (https://babeljs.io/repl), and babel can convert that to Javascript using React.createElement(), the code the browser understands.	
+
+********************************************************************************************************************************
