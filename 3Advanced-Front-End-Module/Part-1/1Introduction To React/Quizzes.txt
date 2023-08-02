@@ -101,3 +101,22 @@ Solution Description
 Write any JSX code here (https://babeljs.io/repl), and babel can convert that to Javascript using React.createElement(), the code the browser understands.	
 
 ********************************************************************************************************************************
+
+Q6. createRoot in React
+
+Select the most appropriate option after looking at the following code.
+
+Options
+This problem has only one correct answer
+
+The code is correct, and the heading will be displayed.
+The id attribute's value must always be set as root, which is a default value in react, to display the heading.
+The id attribute’s value can be anything, but the same should be passed to getElementById in the createRoot function to display the heading.
+We must use JSX to display the heading.
+
+Ans. The id attribute’s value can be anything, but the same should be passed to getElementById in the createRoot function to display the heading.
+
+Solution Description
+The createRoot method expects to receive an HTML node as the first argument. The getElementById method is searching for a node with an id of “root” which does not match the id of the div. So it will fail to render the JSX.
+
+********************************************************************************************************************************
