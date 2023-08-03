@@ -120,3 +120,22 @@ Solution Description
 The createRoot method expects to receive an HTML node as the first argument. The getElementById method is searching for a node with an id of “root” which does not match the id of the div. So it will fail to render the JSX.
 
 ********************************************************************************************************************************
+
+Q7. Functional Components
+
+Which of the following is/are the correct functional component?
+
+Options
+This problem has only one correct answer
+
+App1
+App2
+App1 and App3
+App1, App2 , App3
+
+Ans. App1, App2 , App3
+
+Solution Description
+The first component uses the functional statement syntax, the second uses the arrow function syntax and the third uses the same arrow function syntax with implicit return all of which are valid ways to define components in JSX.
+
+********************************************************************************************************************************
