@@ -139,3 +139,22 @@ Solution Description
 The first component uses the functional statement syntax, the second uses the arrow function syntax and the third uses the same arrow function syntax with implicit return all of which are valid ways to define components in JSX.
 
 ********************************************************************************************************************************
+
+Q8. React Elements
+
+What is the output of the following code?
+
+Options
+This problem has only one correct answer
+
+It will throw an error.
+This is p tag
+This is p tag This is test
+This is test
+
+Ans. This is test
+
+Solution Description
+The elements already present in our HTML file will be replaced when our component is rendered at runtime.
+
+********************************************************************************************************************************
